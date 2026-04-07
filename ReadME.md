@@ -68,7 +68,7 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kimwjdhyun&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=kimwjdhyun&theme=default&hide_border=true"/>
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwjdhyun&layout=compact&theme=default&hide_border=true"/>
 </p>
