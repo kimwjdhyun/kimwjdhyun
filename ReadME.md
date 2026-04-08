@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 데이터 수집부터 AI 예측, 실제 하드웨어 제어까지 **엔드투엔드로 구현**한 경험이 있습니다
+- 데이터 수집부터 AI 예측, 실제 하드웨어 제어까지 **엔드 투 엔드로 구현**한 경험이 있습니다
 - 복잡한 모델보다 **데이터 규모와 시스템 구조에 맞는 선택**을 먼저 고민합니다
 - 문제를 정의하고, 그 문제를 해결하는 구조를 직접 설계하는 과정을 즐깁니다
 
@@ -70,7 +70,7 @@
 <p>
   <img height="160" src="https://streak-stats.demolab.com?user=kimwjdhyun&theme=default&hide_border=true"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwjdhyun&layout=compact&theme=default&hide_border=true"/>
+ 
 </p>
 
 <br>
